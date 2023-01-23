@@ -6,5 +6,6 @@
  */
 
 var myName = "Kate Farr";
+// this is test comment
 
 console.log("Hello, my name is " + myName);
