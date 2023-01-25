@@ -7,4 +7,4 @@
 
 var myName = 'Kate Farr';
 
-console.log('Hello, my name is ' + /* comment here / myName);
+console.log ('Hello, my name is ')  // comment here myName);

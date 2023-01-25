@@ -2,8 +2,8 @@
  * Fix the comments below, so that this script runs.
  */
 
-var 1Name = "Kate Farr";
-var 2Name = "Daniel Farr";
+var Name1 = "Kate Farr";
+var Name2 = "Daniel Farr";
 
-console.log("name 1 is " + 1Name);
-console.log("name 2 is " + 2Name);
+console.log("name 1 is " + Name1);
+console.log("name 2 is " + Name2);
