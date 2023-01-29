@@ -12,3 +12,10 @@
  * Output the total to the console.
  * Make sure the math is good.
  */
+
+var socks = 50;
+var candies = 27;
+var chips = 10;
+var total = socks + candies + chips;
+
+console.log("the total is:", total);

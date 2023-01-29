@@ -3,7 +3,7 @@
  * Run the script to make sure it works.
  */
 
-var greeting = /* string and message here */;
+var greeting = 'Greeting "humans".';
 
 
-console.log('greeting:', greeting);
+console.log(greeting);

@@ -15,3 +15,10 @@
  */
 
 var myMoney = 100;
+var numberOfFriends = 2;
+// just wait its so funny - kate
+var moneyPerFriend = myMoney / numberOfFriends;
+
+console.log("okay so i have", myMoney,"to give okay? so y'all get", moneyPerFriend, "...",
+ "wait i have no friends... WHO ARE YOU GUYS?!")
+

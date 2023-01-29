@@ -5,6 +5,6 @@
 var costPerDay = 10;
 var numberOfDays = 5;
 
-var totalCost = costPerDay x numberOfDays;
+var totalCost = costPerDay * numberOfDays;
 
-console.log("The total cost is ", totalCost, " dollars.");
+console.log("The total cost is", totalCost, "dollars.");

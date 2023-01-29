@@ -3,8 +3,8 @@
  * (This is the one you should always use, for now.)
  */
 
-var NameOne = "Kate Farr";
-var NameTwo = "Daniel Farr";
+var nameOne = "Kate Farr";
+var nameTwo = "Daniel Farr";
 
-console.log("name 1 is " + NameOne);
-console.log("name 2 is " + NameTwo);
+console.log("name 1 is " + nameOne);
+console.log("name 2 is " + nameTwo);

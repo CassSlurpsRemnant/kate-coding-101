@@ -12,4 +12,12 @@
  * Output the total to the console.
  */
 
-var myMoney = 1000;
+var myMoney = 1030;
+var designerBag = 400;
+var pants = 60;
+var lollipop = 6;
+var moneySpent = designerBag + pants + lollipop;
+var total = myMoney - moneySpent;
+
+console.log("I had", myMoney, "dolllars, I spent", moneySpent, "dollars, so now i have", total, "dollars.")
+

@@ -3,7 +3,7 @@
  * Note: I still want the double-quotes in the string!
  */
 
-var message = "Please don't call me "crazy", Bob!";
+var message = "Please don't call me \"crazy\", Bob!";
 
 
 console.log('message:', message);

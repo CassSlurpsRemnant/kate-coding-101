@@ -13,4 +13,13 @@
  * I have {total friends} friends.
  *
  * Output the message.
- */
+ */ 
+var myName = "Quandel Dingle" ;
+var myAge = 1586;
+var friendsFromSchool = 0;
+var friendsFromWork = 0; // L u have no friends
+var totalFriends = friendsFromSchool + friendsFromWork;
+var message = "hey guys, " + myName + " " + "here! and i am" + " " + myAge + " " +
+"years old, and i have" + " " + totalFriends + " " + "friends";
+
+console.log(message)
