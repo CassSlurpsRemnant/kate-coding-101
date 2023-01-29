@@ -30,9 +30,9 @@ var badExample = "This is a "quote" inside a string.";
 **Single Quote Example**
 
 ```js
-var singleQuoteString = "This string has single-quotes";
+var singleQuoteString = 'This string "has" single-quotes';
 
-var doubleQuoteString = "This string has double-quotes";
+var doubleQuoteString = "This string 'has' double-quotes";
 
 // they are the same in javascript.
 ```
