@@ -16,7 +16,8 @@ var months = [
     "September",
     "October",
     "November",
-    "December",
+    //"December",
 ];
 
-console.log("length:" /* your variable here */);
+var  last = months[months.length - 1];
+console.log("length:", last);

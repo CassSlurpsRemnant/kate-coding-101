@@ -1,7 +1,7 @@
 /**
  * Challenge
- * Create a variable called "june".
- * Reference the array with the correct index to get the value "June".
+ * Create a variable called "september".
+ * Reference the array with the correct index to get the value "september".
  */
 
 var months = [
@@ -18,5 +18,5 @@ var months = [
     "November",
     "December",
 ];
-
-console.log("june" /* your variable here */);
+var septembarer = months[8]
+console.log("june", septembarer);

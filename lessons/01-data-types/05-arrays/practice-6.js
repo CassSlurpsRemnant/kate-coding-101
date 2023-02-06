@@ -22,4 +22,6 @@ var months = [
 
 console.log("my second favorite month: ", months[3]);
 
-// write your response here
+/* write your response here
+april
+*/
