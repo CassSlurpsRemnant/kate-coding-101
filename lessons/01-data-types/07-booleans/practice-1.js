@@ -3,6 +3,6 @@
  */
 
 
-var isTrue true;
+var isTrue = true;
 
 console.log('isTrue:', isTrue);

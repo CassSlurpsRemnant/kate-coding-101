@@ -10,3 +10,4 @@ var isTruthy = -1;
 if (isTruthy) {
     console.log("I am a happy man!");
 }
+//opposing response of no

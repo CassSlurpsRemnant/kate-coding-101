@@ -8,12 +8,12 @@
 var kateLovesPets = true;
 var danielLovesPets = false;
 
-if ( /* put your condition here */ ) {
+if (!kateLovesPets) {
     throw new Error('Kate does not love pets!');
 }
 
 
-if ( /* put your condition here */ ) {
+if (!danielLovesPets ) {
 
     throw new Error('Daniel does not love pets!');
 }

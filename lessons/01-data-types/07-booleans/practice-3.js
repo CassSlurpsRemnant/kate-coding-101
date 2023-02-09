@@ -10,3 +10,4 @@ var isTrue = true;
 if (isTrue) {
     console.log("I am a happy man!");
 }
+//yes thou shall affectively process

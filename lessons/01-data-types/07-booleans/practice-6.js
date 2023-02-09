@@ -10,3 +10,4 @@ var isTruthy = null;
 if (isTruthy) {
     console.log("I am a happy man!");
 }
+//negitive
