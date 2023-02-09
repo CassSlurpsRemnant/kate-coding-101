@@ -16,9 +16,14 @@ var house = {
 
     forSale: false, // true
 };
+house.stories = 2;
+house.rooms = 4; 
+house.architecture.style = "colonial";
+house.architecture.yearBuilt = 1980;
+house.forSale = true;
 
 // set values here
 // example house.stories = 2;
 
 // log values here
-// example console.log("Stories:", house.stories);
+console.log(house);

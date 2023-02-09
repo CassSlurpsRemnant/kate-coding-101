@@ -11,4 +11,11 @@
  * Access several of these values and output them.
  */
 
-var character = {};
+var character = {
+    name: "Hand Unit",
+    favoriteFood: "Exotic Butters",
+    isScary: false, 
+    isAngsty: true,
+    ratingOutOfTen: 11,
+};
+console.log("heres some hand unit info so you can die:", character)

@@ -4,6 +4,6 @@
  */
 
 var person = {
-    firstName 'Daniel',
-    lastName 'Farr',
+    firstName: 'Daniel',
+    lastName: 'Farr',
 }

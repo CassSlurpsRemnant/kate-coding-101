@@ -4,6 +4,7 @@
  */
 
 var person = {
-    first-name: 'Daniel',
-    last-name: 'Farr',
+    firstName: 'Daniel ',
+    lastName: 'Farr',
 };
+console.log("my name is ", person.firstName, person.lastName)

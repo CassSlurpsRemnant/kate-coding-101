@@ -8,6 +8,6 @@ var person = {
     lastName: 'Farr',
 }
 
-var firstName person.firstName;
+var firstName = person.firstName;
 
 console.log('my name is', firstName);

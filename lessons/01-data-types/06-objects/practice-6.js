@@ -4,13 +4,13 @@
  */
 
 var person = {
-    firstName: "Daniel",
-    lastName: "Farr",
+    firstName: "Quandel",
+    lastName: "Dingle",
     address: {
-        "street-address": "100 south",
+        "street-address": "123 shrek is hot lane",
     },
 };
 
-var streetAddress = person.address.street-address;
+var streetAddress = person.address["street-address"];
 
-console.log("my street address is", firstName);
+console.log("my street address is", streetAddress);
