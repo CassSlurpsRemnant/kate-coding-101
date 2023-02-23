@@ -5,11 +5,16 @@
 
 
 const arrayOfWords = [
-  "I", "wish", "I", "had", "an", "animatronic"
+  "I",
+   "wish",
+    "I", 
+    "had",
+     "an", 
+     "animatronic"
 ];
 
-console.log("my sentence is:" joinArrayWithSpaces(arrayOfWords));
 
-const joinArrayWithSpaces = function (array) {
-  return array.join(" ");
+var joinArrayWithSpaces = function (array) {
+  return array.join(" *turns into toilet* ");
 }
+console.log("my sentence is:", joinArrayWithSpaces(arrayOfWords));

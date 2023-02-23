@@ -9,10 +9,13 @@ function logString(string) {
 }
 
 function sayHello(extra) {
-  return "Hello " + extra "!";
+  return "Hello " + extra + "!";
 }
 
 function greetFamily() {
+  var greetPerson = function (name) {
+    logString(sayHello(name));
+  };
   greetPerson("Kate");
   greetPerson("Daniel");
   greetPerson("Cassidy");
@@ -20,6 +23,3 @@ function greetFamily() {
 
 greetFamily();
 
-const greetPerson = function (name) {
-  logString(sayHello(name));
-};

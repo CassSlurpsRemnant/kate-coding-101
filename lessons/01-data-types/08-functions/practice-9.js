@@ -8,6 +8,12 @@
  * 4. Multiply the number by the multiplier
  * 5. Return the result
  */
+function getProduct(number, multiplier){
+    var result = number * multiplier
+    return result
+}
+
+
 
 console.log(getProduct(2, 3)); // 6
 console.log(getProduct(4, 3)); // 12

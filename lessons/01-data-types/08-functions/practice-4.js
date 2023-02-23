@@ -12,4 +12,4 @@ function multiplyBy2(number) {
 }
 
 console.log("4 + 10 =", add10(4));
-console.log("20 * 2 =", multiplyby2("2"));
+console.log("20 * 2 =", multiplyBy2(20));

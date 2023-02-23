@@ -3,7 +3,7 @@
  * Fix the following code so that it runs.
  */
 
-function = sayHello(){
+function sayHello(){
   console.log("Hello!");
 }
 

@@ -4,10 +4,10 @@
  */
 
 // convert a string to all uppercase characters
-const stringToUppercase = (string) {
+var stringToUppercase = function(string) {
   return string.toUpperCase();
 };
 
-var string = "hello world";
+var string = "hello world!!";
 
 console.log(stringToUppercase(string));
